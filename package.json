@@ -1,0 +1,16 @@
+{
+  "name": "comparateur-mot-de-passe",
+  "version": "1.0.0",
+  "description": "Exercice pédagogique — comparaison naïve vulnérable aux attaques temporelles",
+  "main": "src/programmePrincipal.js",
+  "bin": {
+    "comparateur-mot-de-passe": "./src/programmePrincipal.js"
+  },
+  "scripts": {
+    "start": "node src/programmePrincipal.js",
+    "verifier": "node src/programmePrincipal.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
