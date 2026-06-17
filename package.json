@@ -8,7 +8,9 @@
   },
   "scripts": {
     "start": "node src/programmePrincipal.js",
-    "verifier": "node src/programmePrincipal.js"
+    "verifier": "node src/programmePrincipal.js",
+    "analyse": "node src/programmePrincipal.js --analyse",
+    "analyse-securise": "node src/programmePrincipal.js --analyse-securise"
   },
   "engines": {
     "node": ">=18"
