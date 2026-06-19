@@ -1,5 +1,7 @@
 # Comparateur de mot de passe (CLI Node.js)
 
+-- Document entièrement reformulé par l'IA pour qu'il soit bien écrit --
+
 Programme en ligne de commande qui compare un mdp saisi à une valeur codée en dur, avec une comparaison vulnérable aux attaques temporelles. Un module d'analyse permet de mesurer expérimentalement la fuite d'information et de démontrer une reconstruction caractère par caractère.
 
 ## Arborescence du projet
